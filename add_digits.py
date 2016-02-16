@@ -14,7 +14,6 @@ def add_digits(num):
         sum = 0
     return num
 
-print add_digits(9)
-      
+print add_digits(923)
 
 
